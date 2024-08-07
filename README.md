@@ -1,6 +1,6 @@
 # Hi, 👋🏽 I am amresh kumar a full stack developer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amresh_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amresh-kumar-07b012185/)](https://www.linkedin.com/in/amresh-kumar-07b012185/)
+[![Linkedin Badge](https://img.shields.io/badge/-Amresh_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amresh-kumar-07b012185/)](https://www.linkedin.com/in/akmr-me/)
 [![Gmail Badge](https://img.shields.io/badge/-kumar.akumar.amresh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumar.akumar.amresh@gmail.com)](mailto:kumar.akumar.amresh@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
